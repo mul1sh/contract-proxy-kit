@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@gnosis.pm/conditional-tokens-contracts": "^0.5.4",
-    "@gnosis.pm/safe-contracts": "^1.1.1",
+    "@gnosis.pm/safe-contracts": "gnosis/safe-contracts#development",
     "@truffle/hdwallet-provider": "^1.0.40",
     "@typechain/truffle-v5": "^2.0.2",
     "@types/chai": "^4.2.12",
